@@ -1,5 +1,7 @@
 # Hi, I'm Yuri! 👋
 
+OSS 프로젝트 과제 링크: https://github.com/HereHear-OSS/HereHear-OSS
+
 # 🎓 About Me
 - Computer Engineering student at Dong-A University
 - Undergraduate Researcher at Data Science Lab (DSL)
